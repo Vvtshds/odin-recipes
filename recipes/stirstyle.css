@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:rgb(142, 79, 23);
+    background-color: greenyellow;
+}
+img{
+    height: 350px;
+    width: auto;
+
+}
+h2{
+    text-align: center;
+    color:red;
+    background-color: rgba(199, 240, 133, 0.961);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
